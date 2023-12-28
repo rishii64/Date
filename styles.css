@@ -17,7 +17,7 @@
     background: url("https://media.giphy.com/media/Yz2NW6XR6EvmU4uWpa/giphy.gif"), url("https://media.giphy.com/media/lPM06f2zvk94jBAzlP/giphy.gif"), url("https://media.giphy.com/media/SvvfK2dco188Wk4ZTq/giphy.gif"), url("https://media.giphy.com/media/SvvfK2dco188Wk4ZTq/giphy.gif");
     background-position: right bottom, left top, left bottom, right top;
     background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;
-    background-size: 15vw;
+    background-size: 12vw;
 }
 .header_text {
     /* border: 1px solid black; */
